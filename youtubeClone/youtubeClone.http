@@ -1,0 +1,6 @@
+@youtubeClone_HostAddress = http://localhost:5169
+
+GET {{youtubeClone_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
